@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @Jodabeni
+- 👀 I’m interested in using Python to excel in AI development. 
